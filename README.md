@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/julienc91/multidl.svg?branch=master)](https://travis-ci.org/julienc91/multidl)
 [![codecov](https://codecov.io/gh/julienc91/multidl/branch/master/graph/badge.svg)](https://codecov.io/gh/julienc91/multidl)
 
-multidl
+multidll
 =======
 
 Download files from anywhere in parallel.
